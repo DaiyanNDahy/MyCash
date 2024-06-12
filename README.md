@@ -83,11 +83,5 @@ Enter OTP: 2619
 Send Money is Successful
 ```
 
-## File Structure
-
-- **main.cpp**: Main application logic.
-- **Member.h / Member.cpp**: Member class implementation.
-- **History.h / History.cpp**: History class implementation.
-- **Utility.h / Utility.cpp**: Helper functions for OTP generation, file handling, etc.
 
 This README file provides an overview of the project, installation instructions, usage examples, file structure, contribution guidelines, and licensing information. It should help users and developers understand the "myCash" application.
